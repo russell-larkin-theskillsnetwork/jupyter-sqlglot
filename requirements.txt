@@ -1,0 +1,3 @@
+# Core dependencies for jupyter-sqlglot
+sqlglot>=20.0.0
+ipython>=7.0.0
